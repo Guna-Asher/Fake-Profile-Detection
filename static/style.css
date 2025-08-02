@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.risk-meter {
+    margin: 20px 0;
+}
+
+.progress {
+    border-radius: 5px;
+}
+
+.anomalies ul {
+    padding-left: 20px;
+}
+
+.profile-details {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+}
+
+.profile-details p {
+    margin-bottom: 0.5rem;
+}
