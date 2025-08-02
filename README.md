@@ -104,5 +104,3 @@ Environment variables are handled securely using a `.env` file. The project alre
 
 Developed by [Guna Asher](https://github.com/Guna-Asher), blending ethical automation with user-centric design and AI/ML experimentation.
 > “AI-powered tool to detect suspicious Twitter profiles using live data and heuristic modeling.”
-
-Let me know if you want to add visual examples, installation GIFs, or even deployment instructions for Render or Railway!
